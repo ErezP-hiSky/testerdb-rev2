@@ -1,0 +1,90 @@
+.shapedBtns-contianer {
+  display: absolute;
+  top: 20%;
+  left: 5%;
+  min-height: 200px;
+  min-width: 200px;
+}
+
+.btn-m-container {
+  display: flex;
+  background-color: #bc1414;
+  width: 140px;
+  height: 140px;
+  position:absolute;
+  top: 45%;
+  left: 46%;
+  transform: rotate(45deg);
+}
+
+.btn-m-container .linkm-text {
+  font-family: "Montserrat-Light";
+  font-size: 17.9px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  color: #fff;
+  line-height: 0;
+}
+
+.btn-t-container {
+  display: flex;
+  background-color: #bc1414;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  top: 45%;
+  left: 64%;
+  transform: rotate(45deg);
+}
+
+.btn-t-container .linkt-text {
+  font-family: "Montserrat-Light";
+  font-size: 17.9px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  color: #fff;
+  line-height: 0;
+}
+
+.register-container {
+  display: flex;
+  background-color: black;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  top: 30%;
+  left: 55%;
+  transform: rotate(45deg);
+}
+
+.register-container .register-text {
+  font-family: "Montserrat-Light";
+  font-size: 17.9px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  color: #fff;
+  line-height: 0;
+}
+
+.image-container {
+  display: flex;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  top: 60%;
+  left: 55%;
+  transform: rotate(45deg);
+}
+
+.image-container .image-man {
+  position: absolute;
+  top: 5%;
+  left: 20%;
+  transform: rotate(-45deg);
+}

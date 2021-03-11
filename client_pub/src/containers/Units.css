@@ -1,0 +1,17 @@
+.select-container--options {
+  width: 30%;
+  height: 3rem;
+  font-size: 26px;
+  background-color: lightblue;
+}
+
+.choose-btn {
+  background-color: lightblue;
+  border: lightseagreen;
+
+  text-align: center;
+  display: inline-block;
+  font-size: 26px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
